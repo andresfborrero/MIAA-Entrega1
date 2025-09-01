@@ -28,6 +28,9 @@ __pycache__/
 *events.out.tfevents.*
 *.ckpt
 *.csv
+*.bz2
+*.ft*
+
 
 # Distribution / packaging
 .Python
