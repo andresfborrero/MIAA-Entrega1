@@ -21,6 +21,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+
 # C extensions
 *.so
 
@@ -31,6 +33,9 @@ __pycache__/
 *.bz2
 *.ft*
 
+# Ignore folders named 'ignore'
+ignore/
+hf-gpt/
 
 # Distribution / packaging
 .Python
