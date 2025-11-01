@@ -35,6 +35,10 @@ __pycache__/
 
 # Ignore folders named 'ignore'
 ignore/
+hf-gpt-small-es/
+# Ignore pickle files
+*.pkl
+
 hf-gpt/
 
 # Distribution / packaging
